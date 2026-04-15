@@ -1,2 +1,4 @@
 data
 Data*.pdf
+.DS_Store
+*.csv
